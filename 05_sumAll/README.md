@@ -14,4 +14,4 @@ Think about how you would do this on pen and paper and then how you might transl
 - create a variable to hold the final sum
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
-- return the sum after finishing the loop
+- return the sum    after finishing the loop
